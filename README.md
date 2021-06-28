@@ -8,6 +8,7 @@
     * [Entity Relationship Diagram](#Entity-Relationship-Diagram)
     * [Continuous Integration](#Continuous-Integration)
 * [Development](#Development)
+    * [Front End](#Front-End)
     * [Testing](#Testing)
 * [Conclusion](#Conclusion)
 
@@ -57,6 +58,12 @@ The diagram below oultines the CI for the application. Jenkins is a CI server wh
 ![ci pipeline](./images/CI-Pipline.png)
 
 ## __Development__
+
+### __Front End__
+
+The home page features a navigation bar at the top and has cocktail recipes that can be viewed.
+
+![homepage](./images/Homepage.png)
 
 ### __Testing__
 
