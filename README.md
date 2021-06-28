@@ -54,7 +54,7 @@ The updated ERD can be seen below:
 
 The diagram below oultines the CI for the application. Jenkins is a CI server which carries out automated tests utilising a GitHub webhook.
 
-![ci pipeline](./images/CI-Pipeline.png)
+![ci pipeline](./images/CI-Pipline.png)
 
 ## __Development__
 
